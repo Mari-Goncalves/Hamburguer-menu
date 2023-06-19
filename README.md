@@ -1,11 +1,18 @@
 <h1 align="center">Responsive hamburguer menu</h1>
 
+<br>
+
+![Frontend](https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=appveyor)
+![Frontend](https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge&logo=appveyor)
+
+* *Project deploy* - https://mari-goncalves.github.io/Hamburguer-menu/
+
+
+---
+
 <div align="center">
   <img width="742" alt="image" src="https://github.com/Mari-Goncalves/Hamburguer-menu/assets/120994185/73951f28-0b3b-4975-888f-646937f865aa">
-</div>
-
-
-<table align="center">
+  <table align="center">
   <tr>
    <td align="center">
      <img width="300" alt="image" src="https://github.com/Mari-Goncalves/Hamburguer-menu/assets/120994185/0dbfa4a7-3506-43c3-9160-c056b5de94ef">
@@ -18,7 +25,12 @@
  </tr>
  
  </table>
- 
- #### Acess here:https://mari-goncalves.github.io/Hamburguer-menu/
+
+</div>
+
+<br>
+<br>
+<br>
+
 
 
