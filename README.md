@@ -10,7 +10,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=appveyor)
 ![Frontend](https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge&logo=appveyor)
 
-* *Project deploy* - https://mari-goncalves.github.io/Hamburguer-menu/
+* *Acess here* - https://mari-goncalves.github.io/Hamburguer-menu/
 
 ---
 
