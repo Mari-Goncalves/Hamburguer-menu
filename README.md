@@ -16,6 +16,16 @@
 
 <br>
 
+## Usage example
+
+[usage-example-screen-capture-Hamburguer-menu.webm](https://github.com/Mari-Goncalves/Hamburguer-menu/assets/120994185/818aa362-6d7c-4c5a-9819-d08f1ed7d056)
+
+[usage-example-screen-capture-Hamburguer-menu-mobile.webm](https://github.com/Mari-Goncalves/Hamburguer-menu/assets/120994185/8cb1b517-e83c-4b13-83af-c6b06208a1fe)
+
+<br>
+
+---
+
 ## Author
 
 **Mariana Gonçalves** 
